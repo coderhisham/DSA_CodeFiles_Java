@@ -16,7 +16,7 @@ public class Palindrome {
     public static void main(String[] args){
         Scanner read = new Scanner(System.in);
         long n = read.nextLong();
-        System.out.println(palindrome((n)));
+        System.out.println(palindrome(n));
     }
 
 }
